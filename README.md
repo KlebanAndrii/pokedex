@@ -1,7 +1,10 @@
+
+👉 Click here - [pokedex](https://cool-smoky-pokedex.netlify.app/)
+
+![LeavesLaughingGIF](https://github.com/user-attachments/assets/e52188a0-1619-4234-b861-094581a7cd88)
+
+
 # React + Vite
-
-👉 - [pokedex](https://cool-smoky-pokedex.netlify.app/)
-
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
